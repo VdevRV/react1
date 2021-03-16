@@ -1,0 +1,17 @@
+table, th, td {
+    border: 1px solid black;
+    width: 25%;
+    border-collapse: collapse;
+  }
+
+body{
+  background-color: yellow;
+}
+
+.App{
+  border-style: outset;
+  background-color: white;
+  margin-left: 10%;
+  margin-top: 10%;
+  margin-right: 30%;
+}

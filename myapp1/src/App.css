@@ -1,0 +1,22 @@
+.App{
+  margin-left: 30%;
+  margin-top: 15%;
+  background-color: slategrey;
+}
+
+p{
+  color: azure;
+  font-size: 40px;
+}
+.btn{
+  background-color: cadetblue;
+  width: 100px;
+  height: 30px;
+}
+
+.btn1{
+  background-color: rosybrown;
+  width: 100px;
+  height: 30px;
+  margin-left: 15px;
+}
