@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@600&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=RocknRoll+One&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital@1&family=RocknRoll+One&display=swap');
+
+.title{
+    font-size: 24px;
+    font-weight: 700;
+    margin-bottom: 25px;
+    color: #fec107;
+    text-transform: uppercase;
+    font-family: 'Montserrat', sans-serif;
+}
+
+ 
+
+    .wrapper{
+
+    
+        max-width: 300px;
+        height: 500px;
+        width:100%;
+        background: #fff;
+        margin:10px auto;
+        padding: 30px;
+        border-style: outset;
+        box-shadow: 1px 1px 2px rgba(0,0,0,0.125);
+        font-family: 'Montserrat', sans-serif;
+    }
+
+    small{
+        font-size: 7px;
+      }
+
+      .btn{
+
+        width:100px;
+        height:30px;
+        color: white;
+        background-color:#fec107 ;
+        border-radius: 25px;
+        border-style: outset;
+
+      }
+
+      .btn:hover{
+          background-color: tomato;
+      }
+      small{
+          text-align: left;
+          padding-left: 10px;
+      }
+
+
+      table {
+        width: 50%;
+        text-align: left;
+        border: 1px solid black;
+      }
+      
+      td {
+        height: 70px;
+        color: black;
+      }
+      th{
+          color: black;
+      }
